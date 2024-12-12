@@ -84,7 +84,7 @@ Se implementaron validaciones para asegurar que los valores ingresados por el us
   - ConsultarMoneda.java
   - ConvertirModena.java
   - Moneda.java
-- config.properties
+- config/config.properties
 
 ## 📑 **Ejemplo de Uso**
 
@@ -92,4 +92,4 @@ Se implementaron validaciones para asegurar que los valores ingresados por el us
 ![image](https://drive.google.com/uc?export=view&id=17kRMbKruBNgi8etPY2tOr8k-651DbxzM)
 
 ## 💡 **Conclusión**
-Este proyecto es una excelente forma de aprender sobre el consumo de **APIs** en **Java**, el manejo de datos **JSON** y la creación de interfaces interactivas en consola. Además, ofrece una solución útil para realizar conversiones de divisas de manera sencilla y eficiente. También es fácilmente ampliable para soportar más monedas, brindando a los usuarios aún más opciones para realizar sus conversiones.
+Este proyecto es una excelente forma de aprender sobre el consumo de **APIs** en **Java**, el manejo de datos **JSON** y la creación de interfaces interactivas en consola. Además, ofrece una solución útil para realizar conversiones de divisas de manera sencilla y eficiente. También es fácilmente ampliable para consultar más monedas, brindando a los usuarios aún más opciones para realizar sus conversiones.
